@@ -1,6 +1,5 @@
 from composio import Composio
 from composio_langchain import LangchainProvider
-from langchain_google_genai import ChatGoogleGenerativeAI
 from langgraph.prebuilt import create_react_agent
 from langchain.chat_models import init_chat_model
 import getpass
